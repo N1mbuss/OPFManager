@@ -8,8 +8,8 @@ class OPFManager:
         self.root.title("Password Manager")
         self.root.geometry("800x600")
 
-        self.opfcont_path = r"C:\Users\flebars\Downloads\OpenPasswordFilter-master\Lists\opfcont.txt"
-        self.opfmatch_path = r"C:\Users\flebars\Downloads\OpenPasswordFilter-master\Lists\opfmatch.txt"
+        self.opfcont_path = r"path"
+        self.opfmatch_path = r"path"
 
         # Configure les styles
         self.configure_styles()
